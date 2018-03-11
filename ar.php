@@ -9,7 +9,7 @@
 
     $TEXT['mode-demo'] = "Enabled demo version. The changes you've made will not be saved.";
 
-    $TEXT['topbar-users'] = "المستخدمين";
+    $TEXT['topbar-users'] = "users";
 
     $TEXT['topbar-stats'] = "الإحصاءات";
 
